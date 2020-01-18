@@ -1,0 +1,1 @@
+wheel.o: wheel.c
